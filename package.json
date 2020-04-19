@@ -1,6 +1,7 @@
 {
   "name": "telegram-faces-ascii-bot",
   "version": "1.0.0",
+  "private": true,
   "description": "ASCII faces random generator",
   "main": "index.js",
   "scripts": {
